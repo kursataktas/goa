@@ -84,7 +84,7 @@ promoting reuse and standardization across services.
             </a>
             <h3>Zuplo: Scale, Protect, and Productize your Goa API</h3>
             <p>
-globally, generate documentation from your OpenAPI, and add
+                Our API Gateway allows you to secure your API, scale it
                 globally, generate documentation from your OpenAPI, and add
                 monetization.
             </p>
